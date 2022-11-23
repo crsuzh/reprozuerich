@@ -1,0 +1,56 @@
+baseURL = 'http://www.reprozuerich.org/'
+languageCode = 'en-gb'
+title = 'Design and Analysis of Replication Studies'
+theme = 'devfest-theme-hugo'
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+[params]
+    title = "Reproducibility day 2023"
+    date = "2023-02-09"
+    description = "The reproducibility day is a one-day conference dedicated to the promotion of open and reproducible research."
+    images = ["/images/social-share.jpg"]
+    email = "crs@ebpi.uzh.ch"
+    keywords = "event, crs, reproducibility, conference"
+    copyright = "This website was built using Hugo and the devfest theme"
+    copyright_link = "https://github.com/felix-hof/reprozuerich"
+    #cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+    subscriptionUrl = "https://ebpi.lists.uzh.ch/sympa/subscribe/crs"
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#168e51"
+    #googleWebmasterKey = "googleXXXXXXX" # https://support.google.com/webmasters/answer/9008080#html_verification
+
+[params.logos]
+    #jumbo = "/images/logos/CRS_logo_green_with_border.png"
+    header = "/images/logos/CRS_logo_green_with_border.png"
+    footer = "/images/logos/CRS_logo_green_with_border.png"
+
+#[menu]
+#[[menu.main]]
+#    identifier = "jobs"
+#    name = "Jobs"
+#    url = "https://jobs.devfesttoulouse.fr/"
+#    weight = 200
+#    external = true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "gb"
+
+#[languages.de]
+#    weight = 2
+#    languageName = "de"
+#
+#[languages.de.params]
+#    description = "Reproduzierbarkeitstag blabli"
+
+[taxonomies]
+  tag = "tags"
+

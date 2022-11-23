@@ -1,0 +1,28 @@
+share:
+  - name: twitter
+    url: https://twitter.com/intent/tweet?text=
+
+follow:
+  - name: twitter
+    url: https://twitter.com/crsuzh
+
+      #content:
+      #  - title: footer_about
+      #    links:
+      #      - nameKey: footer_coc
+      #        url: /code-of-conduct-online/
+      #        newTab: false
+      #      - nameKey: footer_charter
+      #        url: /charter/
+      #        newTab: false
+      #  - title: footer_extra
+      #    links:
+      #      - nameKey: footer_papers
+      #        url: /accepted-papers/
+      #        newTab: false
+      #      - nameKey: footer_call
+      #        url: /call/
+      #        newTab: false
+      #      - nameKey: footer_poster
+      #        url: /poster/
+      #        newTab: false
