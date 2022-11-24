@@ -11,12 +11,6 @@ menu:
 ## Reproducibility Conference
 ### 9 February 2023
 
-<!--
-<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
-</a>
--->
-
 {{% /jumbo %}}
 
 
@@ -33,16 +27,13 @@ The Reproducibility Day 2023 is the second edition of the Reproducibility Day af
 <!-- BREAKS JUMBO IMAGE -->
 {{% home-speakers %}}
 ## Featured Speakers
-<!--
-{{< button-link label="Submit a presentation"
-                url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-                icon="cfp" >}}
--->
-{{< button-link label="See all speakers"
-                url="./speakers"
-                icon="right" >}}
+{{< button-link label="See all speakers" url="./speakers" icon="right" >}}
 
 {{% /home-speakers %}}
+
+{{% home-subscribe class="primary" %}}
+## Get notified about the important conference updates
+{{% /home-subscribe %}}
 
 <!--
 {{% home-tickets %}}
