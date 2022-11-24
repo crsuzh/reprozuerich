@@ -6,7 +6,7 @@ menu:
 ---
 
 <!-- JUMBO -->
-{{% jumbo img="/images/backgrounds/DNA_gruen.jpg" imgLabel="Reproducibility Day 2023" %}}
+{{% jumbo img="/images/backgrounds/KOL-Nacht-04.jpg" imgLabel="Reproducibility Day 2023" %}}
 
 ## 9 February 2023
 ### 2023: Reproducibility conference at the University of Zurich
