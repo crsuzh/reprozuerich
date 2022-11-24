@@ -1,8 +1,8 @@
 ---
 key: leonhard_held
-name: LEONHARD HELD
+name: Leonhard Held
 id: y0wL4Q9ZnxdOvpCvlaejITZcPBq2
-feature: false
+feature: true 
 company: University of Zurich
 city: 'Zurich, Switzerland'
 photoURL: /images/speakers/leonhard_held.jpg
