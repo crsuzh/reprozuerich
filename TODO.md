@@ -1,4 +1,9 @@
-Stuff that could be improved:
+# To do:
+
+- Add people's academic title
+
+
+# Stuff that could be improved:
 
 - Add ORCiD to socials section (in contents/speakers/firstname_lastname.md)
 	- See usage terms and conditions [here](https://info.orcid.org/brand-guidelines/)
