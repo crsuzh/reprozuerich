@@ -27,7 +27,7 @@ enableMissingTranslationPlaceholders = true
     #googleWebmasterKey = "googleXXXXXXX" # https://support.google.com/webmasters/answer/9008080#html_verification
 
 [params.logos]
-    #jumbo = "/images/logos/CRS_logo_green_with_border.png"
+    jumbo = "/images/logos/logo_large.png"
     header = "/images/logos/CRS_logo_green_with_border.png"
     footer = "/images/logos/CRS_logo_green_with_border.png"
 
