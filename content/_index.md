@@ -32,7 +32,7 @@ The Reproducibility Day 2023 is the second edition of the Reproducibility Day af
 {{% /home-speakers %}}
 
 {{% home-subscribe class="primary" %}}
-## Get notified about the important conference updates
+## Get notified about important conference updates
 {{% /home-subscribe %}}
 
 <!--
