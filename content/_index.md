@@ -8,10 +8,8 @@ menu:
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/KOL-Nacht-04.jpg" imgLabel="Reproducibility Day 2023" %}}
 
-## 9 February 2023
-### 2023: Reproducibility conference at the University of Zurich
-
-<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
+## Reproducibility Conference
+### 9 February 2023
 
 <!--
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi">
@@ -23,7 +21,7 @@ menu:
 
 
 <!-- INFO -->
-{{% home-info what="Registrants:>1000,Tutorials:4,Invited Talks:6,Contributed Talks:29" class="primary" %}}
+{{% home-info what="Keynotes:1,Workshops:6" class="primary" %}}
 
 ## What is the Reproducibility Day?
 
