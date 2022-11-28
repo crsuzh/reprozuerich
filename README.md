@@ -17,13 +17,17 @@ Furthermore, the repository contains a directory `themes/` directory which conta
 
 Also within the root folder of the project, there is the file `config.toml`. This file defines the parameters that are used throughout the entire website.
 
-# Requirements
+# Working with this repository
+
+Due to the setup with the theme being its own `git` repository. You must set the `--recursive` option when cloning the repository. Otherwise, the `theme` directory will be empty. The full command to clone the entire repository is thus `git clone --recursive https://github.com/crsuzh/reprozuerich.git`.
+
+## Requirements
 
 In order to build the website, `hugo` must be installed. If you need to change anything in the `devfest-theme-hugo/` directory, you must also have the `node` toolchains installed. However, some of these programs need specific versions in order to work correctly.
 
-## Installation of dependencies
+### Installation of dependencies
 
-### macOS
+#### macOS
 
 The simplest way to install the dependencies is using the `Homebrew` package manager. You can check if you have it installed by running:
 
@@ -53,7 +57,7 @@ which installs node version 14.21.1. For `node`, it is important to use this ver
 
 which should return `v14.21.17`. If this is not the case, you might need to run `brew link --overwrite node@14`. Then the above command should return the correct version.
 
-### Other operating systems
+#### Other operating systems
 
 I have not tried to install this on any other OS such that I cannot give detailed instructions here. On Linux, it is probably easiest to use your default package manager and check how to install this software.
 
