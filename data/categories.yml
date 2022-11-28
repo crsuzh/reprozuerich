@@ -1,0 +1,13 @@
+- key: keynote
+  name: Keynote
+- key: workshop
+  name: Workshop
+- key: lunch
+  name: Lunch
+- key: open
+  name: Ouverture
+- key: apero
+  name: Apéro
+- key: pause
+  name: Pause
+

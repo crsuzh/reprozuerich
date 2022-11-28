@@ -1,0 +1,17 @@
+id: HJRThubF4uYPkb7jSUxi
+name: Reproducibility Day 2023
+address:
+  formattedAddress: 'Rämistrasse 71, 8001 Zürich, Switzerland'
+  locality:
+    short_name: Zürich
+    long_name: Zürich
+  country:
+    short_name: CH
+    long_name: Switzerland
+  latLng:
+    lat: 47.374322
+    lng: 8.5481133
+dates:
+  start: '2023-02-09T10:00:00.000Z'
+  end: '2019-02-09T17:00:00.000Z'
+

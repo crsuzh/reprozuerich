@@ -9,12 +9,6 @@
   name: Workshop
 - key: lunch
   name: Lunch
-- key: office-hours
-  name: Office Hours
-- key: open
-  name: Ouverture
-- key: party
-  name: Party
 - key: pause
   name: Pause
 - key: apero

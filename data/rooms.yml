@@ -1,0 +1,12 @@
+- key: kol_f_101
+  label: KOL F 101
+  description: Hörsaal
+  skip: true
+- key: kol_f_109
+  label: KOL F 109
+  description: Seminarraum
+  skip: true
+- key: kol_f_123
+  label: KOL F 123
+  description: Seminarraum
+
