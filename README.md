@@ -40,7 +40,7 @@ The simplest way to install the dependencies is using the `Homebrew` package man
 
 `brew --version` 
 
-in a Terminal window. If this results in an error, you can install Homebrow by running
+in a Terminal window. If this results in an error, you can install Homebrew by running
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 

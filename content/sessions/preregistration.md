@@ -1,6 +1,6 @@
 ---
 key: preregistration 
-title: Prergistration
+title: Preregistration
 #language: English
 format: conference
 #tags:
