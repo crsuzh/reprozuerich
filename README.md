@@ -21,6 +21,13 @@ Also within the root folder of the project, there is the file `config.toml`. Thi
 
 Due to the setup with the theme being its own `git` repository. You must set the `--recursive` option when cloning the repository. Otherwise, the `theme` directory will be empty. The full command to clone the entire repository is thus `git clone --recursive https://github.com/crsuzh/reprozuerich.git`.
 
+After cloning, the submodule is in detached HEAD state. This is not a problem if you do not make any changes to the submodule but if you want to do so, you should run the the following after cloning the repo:
+
+`
+cd reprozuerich/themes/devfest-theme-hugo
+git checkout master
+`
+
 ## Requirements
 
 In order to build the website, `hugo` must be installed. If you need to change anything in the `devfest-theme-hugo/` directory, you must also have the `node` toolchains installed. However, some of these programs need specific versions in order to work correctly.
