@@ -1,0 +1,46 @@
+- title: Eva Furrer
+  type: core
+  #subtitle: Some subtitle...
+  photo: eva_furrer.jpg
+  socials:
+    - link: 'https://www.twitter.com/furrer_ebpi'
+      name: Twitter
+  key: eva_furrer
+- title: Leonhard Held
+  type: core
+  #subtitle: subtitle
+  photo: leonhard_held.jpg
+  socials:
+    - link: 'https://www.twitter.com/heldleonhard'
+      name: Twitter
+  key: leonhard_held
+- title: Samuel Pawel
+  type: core
+  #subtitle: subtitle
+  photo: samuel_pawel.jpg
+  socials: 
+    - link: 'https://www.twitter.com/SamuelPawel'
+      name: Twitter
+  key: samuel_pawel
+- title: Charlotte Micheloud
+  type: core
+  #subtitle: subtitle
+  photo: charlotte_micheloud.jpg
+  socials:
+    - link: 'https://www.twitter.com/micheloudcharl1'
+      name: Twitter
+  key: charlotte_micheloud
+- title: Rachel Heyard
+  type: core
+  #subtitle: subtitle
+  photo: rachel_heyard.jpg
+  socials:
+    - link: 'https://www.twitter.com/rachelheyr'
+      name: Twitter
+  key: rachel_heyard
+- title: Felix Hofmann
+  type: core
+  #subtitle: subtitle
+  photo: placeholder.png
+  key: felix_hofmann
+
