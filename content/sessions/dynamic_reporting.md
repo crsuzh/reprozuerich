@@ -3,7 +3,7 @@ key: dynamic_reporting
 title: Dynamic reporting
 id: qXAvodXoMK3db8ZLcVwb
 #language: France
-format: conference
+format: workshop
 #tags:
 #  - _native_mobile_apps
 #level: beginner

@@ -3,7 +3,7 @@ key: open_data
 title: "Open Data"
 id: 6E03tbU6L5w0IyjMi7yF
 #language: français
-format: conference
+format: workshop
 #tags:
 #  - _method___tools
 #level: beginner

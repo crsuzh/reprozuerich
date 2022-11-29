@@ -2,7 +2,7 @@
 key: preregistration 
 title: Preregistration
 #language: English
-format: conference
+format: workshop
 #tags:
 #  - _languages
 #level: advanced

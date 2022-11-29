@@ -2,10 +2,10 @@
 key: containerization
 title: Containerization
 id: zVUXQkHQtSiGJeIwVd05
-format: conference 
+format: workshop
 #tags:
 #  - _wtf
-#level: beginner
+level: beginner
 speakers:
   - eva_furrer
   - felix_hofmann
