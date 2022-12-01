@@ -31,9 +31,11 @@ The Reproducibility Day 2023 is the second edition of the Reproducibility Day af
 
 {{% /home-speakers %}}
 
-{{% home-subscribe class="primary" %}}
-## Get notified about important conference updates
-{{% /home-subscribe %}}
+{{% home-poll class="primary" %}}
+## Fill out the registration form
+In order to maximise participation we have not yet fixed the time slots for the workshops in the afternoon. Fill out the registration form to let us know when you would like to participate.
+{{% /home-poll %}}
+
 
 <!-- THE MAP 
 {{% home-location
@@ -44,7 +46,6 @@ The Reproducibility Day 2023 is the second edition of the Reproducibility Day af
     %}}
 {{% /home-location %}}
 -->
-
 
 ## The 2023 venue
 {{< rawhtml >}}
