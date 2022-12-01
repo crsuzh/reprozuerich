@@ -3,6 +3,7 @@ key: felix_hofmann
 name: Felix Hofmann
 id: 1A7LmMXk8EdzhOdUpo6TUAXgBrV2
 feature: true
+#type: workshop
 company: University of Zurich
 city: 'Zurich, Switzerland'
 photoURL: /images/speakers/placeholder.png

@@ -3,6 +3,7 @@ key: charlotte_micheloud
 name: Charlotte Micheloud
 id: XDO4bqPAuJRWnEAJtNW9bCg09Of2
 feature: true
+#type: workshop
 company: University of Zurich
 city: 'Zurich, Switzerland'
 photoURL: /images/speakers/charlotte_micheloud.jpg
