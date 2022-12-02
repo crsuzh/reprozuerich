@@ -8,7 +8,7 @@ format: workshop
 level: beginner
 speakers:
   - eva_furrer
-  - felix_hofmann
+  - reto_gerber
 #videoId: OgOAMs6b5R0
 presentation: null
 draft: false

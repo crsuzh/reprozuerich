@@ -6,8 +6,8 @@ format: workshop
 #tags:
 #  - _languages
 #level: advanced
-#speakers:
-#  - liliia_abdulina
+speakers:
+  - nicolas_langer
 draft: false
 ---
 

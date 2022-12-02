@@ -8,8 +8,8 @@ format: workshop
 #  - _wtf
 #level: beginner
 speakers:
-  - samuel_pawel
   - charlotte_micheloud
+  - leonhard_held
 #videoId: 3XIAC098fAI
 #presentation: null
 draft: false
