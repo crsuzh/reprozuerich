@@ -1,4 +1,4 @@
-baseURL = 'http://www.reprozuerich.org/'
+baseURL = 'https://www.reprozuerich.org/'
 languageCode = 'en-gb'
 title = 'Design and Analysis of Replication Studies'
 theme = 'devfest-theme-hugo'
