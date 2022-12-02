@@ -7,35 +7,28 @@ menu:
 
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/KOL-Nacht-04.jpg" imgLabel="Reproducibility Day 2023" %}}
-
 ## Reproducibility Day
 ### 9 February 2023
-
 {{% /jumbo %}}
 
-
-<!-- INFO -->
-{{% home-info what="Keynotes:1,Workshops:6" class="primary" %}}
-
-## What is the Reproducibility Day?
-
-The Reproducibility Day 2023 is the second edition of the Reproducibility Day after 2019. The website of the previous conference can be found <a style="color: lightblue" href="./archive/">here</a>.
-
-{{% /home-info %}}
+<!-- REGISTRATION FORM --> 
+{{% home-poll class="primary" %}} 
+## Fill out the registration form 
+In order to maximise participation we have not yet fixed the time slots for the workshops in the afternoon. Fill out the registration form to let us know when you would like to participate.
+{{% /home-poll %}}
 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE -->
 {{% home-speakers %}}
 ## Featured Speakers
 {{< button-link label="See all speakers" url="./speakers" icon="right" >}}
-
 {{% /home-speakers %}}
 
-{{% home-poll class="primary" %}}
-## Fill out the registration form
-In order to maximise participation we have not yet fixed the time slots for the workshops in the afternoon. Fill out the registration form to let us know when you would like to participate.
-{{% /home-poll %}}
-
+<!-- INFO -->
+{{% home-info what="Keynotes:1,Workshops:6" class="primary" %}}
+## What is the Reproducibility Day?
+The Reproducibility Day 2023 is the second edition of the Reproducibility Day after 2019. The website of the previous conference can be found <a style="color: lightblue" href="./archive/">here</a>.
+{{% /home-info %}}
 
 <!-- THE MAP 
 {{% home-location
