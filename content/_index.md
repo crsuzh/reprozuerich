@@ -27,7 +27,7 @@ In order to maximise participation we have not yet fixed the time slots for the 
 <!-- INFO -->
 {{% home-info what="Keynotes:1,Workshops:6" class="primary" %}}
 ## What is the Reproducibility Day?
-The Reproducibility Day 2023 is the second edition of the Reproducibility Day after 2019. The website of the previous conference can be found <a style="color: lightblue" href="./archive/">here</a>.
+The Reproducibility Day 2023 is the second edition of the Reproducibility Day after 2019. The website of the previous conference can be found <a style="color: #64b5f6" href="./archive/">here</a>.
 {{% /home-info %}}
 
 <!-- THE MAP 
