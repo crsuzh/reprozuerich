@@ -16,9 +16,9 @@ menu:
 <section class="content">
 	<h2>Past events organised by the CRS</h2>
 	<ul>
-		<li> <a href="https://crsuzh.github.io/CRSReplicationWorkshop2020/">CRS Replication workshop</a> </li>
-		<li> <a href="https://crsuzh.github.io/CRSReproDay2019/">CRS Reproducibility Day 2019</a> </li>
-		<li> <a href="https://crsuzh.github.io/CRSKickoff2018/">CRS Kickoff 2018</a> </li>
+		<li> <a style="color: #64b5f6" href="https://crsuzh.github.io/CRSReplicationWorkshop2020/">CRS Replication workshop</a> </li>
+		<li> <a style="color: #64b5f6" href="https://crsuzh.github.io/CRSReproDay2019/">CRS Reproducibility Day 2019</a> </li>
+		<li> <a style="color: #64b5f6" href="https://crsuzh.github.io/CRSKickoff2018/">CRS Kickoff 2018</a> </li>
 	</ul>
 </section>
 
