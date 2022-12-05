@@ -3,7 +3,7 @@ title: Archive
 draft: false
 menu:
     main:
-        weight: 19
+        weight: 70
 ---
 
 <div class="hero">

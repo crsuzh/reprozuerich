@@ -11,7 +11,7 @@ menu:
 
 ### Keynote by Prof. Dr. Matthias Egger, President of the National Research Council
 
-### February 9, 2023
+### **February 9, 2023**
 
 ### Open to all members of UZH, students, researchers, administrative and technical staff
 {{% /jumbo %}}
@@ -34,15 +34,11 @@ In order to maximise participation we have not yet fixed the time slots for the 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE -->
 {{% home-speakers %}}
-## Featured Speakers
-{{< button-link label="See all speakers" url="./speakers" icon="right" >}}
+## Featured Contributors
+{{< button-link label="See all contributors" url="./speakers" icon="right" >}}
 {{% /home-speakers %}}
 
 <!-- INFO -->
-{{% home-info what="Keynotes:1,Workshops:6" class="primary" %}}
-## What is the Reproducibility Day?
-The Reproducibility Day is devoted to reproducible and transparent research. In hands-on workshops participants can acquire relevant practical skills. This year's edition is the second after 2019. The website of the previous event can be found <a style="color: #64b5f6" href="./archive/">here</a>.
-{{% /home-info %}}
 
 <!-- THE MAP 
 {{% home-location
@@ -54,8 +50,4 @@ The Reproducibility Day is devoted to reproducible and transparent research. In 
 {{% /home-location %}}
 -->
 
-## The 2023 venue
-{{< rawhtml >}}
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2617.459205967524!2d8.5470667475565!3d47.3739143059912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479aa1e28fb49e31%3A0x975efe26e2b57d4f!2sUniversity%20of%20Zurich!5e0!3m2!1sen!2sch!4v1668894163446!5m2!1sen!2sch" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-{{< /rawhtml >}}
 

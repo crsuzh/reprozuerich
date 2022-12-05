@@ -1,5 +1,5 @@
 ---
-title: Speakers
+title: Contributors
 menu:
   main:
     weight: 40
