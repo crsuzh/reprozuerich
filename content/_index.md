@@ -7,15 +7,29 @@ menu:
 
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/KOL-Nacht-04.jpg" imgLabel="Reproducibility Day 2023" %}}
-## Reproducibility Day
-### 9 February 2023
+## UZH Reproducibility Day
+
+### Keynote by Prof. Dr. Matthias Egger, President of the National Research Council
+
+### February 9, 2023
+
+### Open to all members of UZH, students, researchers, administrative and technical staff
 {{% /jumbo %}}
 
 <!-- REGISTRATION FORM --> 
 {{% home-poll class="primary" %}} 
-## Fill out the registration form 
-In order to maximise participation we have not yet fixed the time slots for the workshops in the afternoon. Fill out the registration form to let us know when you would like to participate.
+## Registration 
+In order to maximise participation we have not yet fixed the time slots for the workshops in the afternoon. Please fill out the registration form to let us know when you would like to participate.
 {{% /home-poll %}}
+
+
+{{% jumbo-logoless img="images/backgrounds/kol-f-101.png" imgLabel="KOL-F-101" %}}
+## Keynote Session
+### Welcome address by Prof. Dr. Elisabeth Stark, Vice President Research
+### Introduction by Prof. Dr. Leonhard Held, Director of the CRS
+### Keynote by Prof. Dr. Matthias Egger, President of the National Research Council at SNSF
+### **10:00 - 12:00, KOL-F-101**
+{{% /jumbo-logoless %}}
 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE -->
@@ -27,7 +41,7 @@ In order to maximise participation we have not yet fixed the time slots for the 
 <!-- INFO -->
 {{% home-info what="Keynotes:1,Workshops:6" class="primary" %}}
 ## What is the Reproducibility Day?
-The Reproducibility Day 2023 is the second edition of the Reproducibility Day after 2019. The website of the previous conference can be found <a style="color: #64b5f6" href="./archive/">here</a>.
+The Reproducibility Day is devoted to reproducible and transparent research. In hands-on workshops participants can acquire relevant practical skills. This year's edition is the second after 2019. The website of the previous event can be found <a style="color: #64b5f6" href="./archive/">here</a>.
 {{% /home-info %}}
 
 <!-- THE MAP 
