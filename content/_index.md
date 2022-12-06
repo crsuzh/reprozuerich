@@ -8,13 +8,17 @@ menu:
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/KOL-Nacht-04.jpg" imgLabel="Reproducibility Day 2023" %}}
 ## UZH Reproducibility Day
-
-### Keynote by Prof. Dr. Matthias Egger, President of the National Research Council
-
 ### **February 9, 2023**
-
-### Open to all members of UZH, students, researchers, administrative and technical staff
 {{% /jumbo %}}
+
+<!-- INFO BLOCK -->
+{{% home-info what="Prof. Dr. Elisabeth Stark:Welcome address, Prof. Dr. Leonhard Held:Introduction, Prof. Dr. Matthias Egger:Keynote" %}}
+# Keynote Session
+## Keynote by Prof. Dr. Matthias Egger, President of the National Research Council
+## **10:00 - 12:00 in KOL-F-101**
+### Open to all members of UZH, students, researchers, administrative and technical staff
+{{% /home-info %}}
+
 
 <!-- REGISTRATION FORM --> 
 {{% home-poll class="primary" %}} 
@@ -22,7 +26,7 @@ menu:
 In order to maximise participation we have not yet fixed the time slots for the workshops in the afternoon. Please fill out the registration form to let us know when you would like to participate.
 {{% /home-poll %}}
 
-
+<!--
 {{% jumbo-logoless img="images/backgrounds/kol-f-101.png" imgLabel="KOL-F-101" %}}
 ## Keynote Session
 ### Welcome address by Prof. Dr. Elisabeth Stark, Vice President Research
@@ -30,6 +34,7 @@ In order to maximise participation we have not yet fixed the time slots for the 
 ### Keynote by Prof. Dr. Matthias Egger, President of the National Research Council at SNSF
 ### **10:00 - 12:00, KOL-F-101**
 {{% /jumbo-logoless %}}
+-->
 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE -->
