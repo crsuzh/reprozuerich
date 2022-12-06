@@ -25,7 +25,7 @@ enableMissingTranslationPlaceholders = true
     themeColor = "#168e51"
 
 [params.logos]
-    #jumbo = "/images/logos/logo_large.png"
+    jumbo = "/images/logos/logo_large.png"
     header = "/images/logos/CRS_logo_green_with_border.png"
     footer = "/images/logos/CRS_logo_green_with_border.png"
 
