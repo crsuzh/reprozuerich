@@ -15,7 +15,7 @@ menu:
 {{% home-info what="Prof. Dr. Elisabeth Stark:Welcome address, Prof. Dr. Leonhard Held:Introduction, Prof. Dr. Matthias Egger:Keynote" %}}
 # Keynote Session
 ## Keynote by Prof. Dr. Matthias Egger, President of the National Research Council
-## **10:00 - 12:00 in KOL-F-101**
+## **10:00 - 12:00, KOL-F-101**
 ### Open to all members of UZH, students, researchers, administrative and technical staff
 {{% /home-info %}}
 
