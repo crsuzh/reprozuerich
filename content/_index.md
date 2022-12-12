@@ -12,7 +12,7 @@ menu:
 {{% /jumbo %}}
 
 <!-- INFO BLOCK -->
-{{% home-info what="Prof. Dr. Elisabeth Stark:Welcome address, Prof. Dr. Leonhard Held:Introduction, Prof. Dr. Matthias Egger:Keynote" %}}
+{{% home-info what="Prof. Dr. Elisabeth Stark:Welcome address, Prof. Dr. Leonhard Held:Introduction" %}}
 # **Keynote Session**
 ## Keynote by Prof. Dr. Matthias Egger, President of the National Research Council
 ## **10:00 - 12:00, KOL-F-101**
