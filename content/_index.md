@@ -23,7 +23,7 @@ menu:
 <!-- REGISTRATION FORM --> 
 {{% home-poll class="primary" %}} 
 ## Registration 
-In order to maximise participation we have not yet fixed the time slots for the workshops in the afternoon. Please fill out the registration form to let us know when you would like to participate.
+We have not yet fixed the time slots for the workshops in the afternoon. Please fill out the registration form to let us know when you would like to participate.
 {{% /home-poll %}}
 
 <!--
