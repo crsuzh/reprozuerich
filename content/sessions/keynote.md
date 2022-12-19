@@ -1,6 +1,6 @@
 ---
 key: keynote
-title: Keynote
+title: "Reproducibility: what role for national funding agencies?"
 #language: English
 format: keynote
 #tags:
