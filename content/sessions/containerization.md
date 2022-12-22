@@ -5,7 +5,7 @@ id: zVUXQkHQtSiGJeIwVd05
 format: workshop
 #tags:
 #  - _wtf
-level: beginner
+#level: beginner
 speakers:
   - eva_furrer
   - reto_gerber
