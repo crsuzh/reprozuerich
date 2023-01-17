@@ -14,7 +14,7 @@ menu:
 <!-- INFO BLOCK -->
 {{% home-info what="Prof. Dr. Elisabeth Stark:Welcome address, Prof. Dr. Leonhard Held:Introduction" %}}
 # **Keynote Session**
-## Keynote by Prof. Dr. Matthias Egger, President of the National Research Council
+## "Reproducibility: what role for national funding agencies?" by Prof. Dr. Matthias Egger, President of the National Research Council
 ## **10:00 - 12:00, KOL-F-101**
 ### Open to all members of UZH, students, researchers, administrative and technical staff
 {{% /home-info %}}
