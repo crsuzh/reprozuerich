@@ -1,0 +1,41 @@
+- day: '2023-02-09'
+  start: '10:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: morning-block
+          talk: keynote
+        - slot: lunch-break
+          talk: __lunch
+        - slot: ws-1
+          talk: sample_size_planning
+        - slot: coffee-break
+          talk: __pause
+        - slot: ws-2
+          talk: open_data
+        - slot: apero-break
+          talk: __apero
+    - room: room2
+      slots:
+        - slot: lunch-break
+          talk: __lunch
+        - slot: ws-1
+          talk: dynamic_reporting
+        - slot: coffee-break
+          talk: __pause
+        - slot: ws-2
+          talk: containerization
+        - slot: apero-break
+          talk: __apero
+    - room: room3
+      slots:
+        - slot: lunch-break
+          talk: __lunch
+        - slot: ws-1
+          talk: preregistration
+        - slot: coffee-break
+          talk: __pause
+        - slot: ws-2
+          talk: replication_studies
+        - slot: apero-break
+          talk: __apero
