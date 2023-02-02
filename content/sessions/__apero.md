@@ -3,7 +3,7 @@ key: __apero
 title: Apéro
 format: apero
 tags:
-  - pause
+  - apero
 speakers: []
 draft: false
 ---

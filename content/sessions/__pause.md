@@ -7,4 +7,3 @@ tags:
 speakers: []
 draft: false
 ---
-Pause

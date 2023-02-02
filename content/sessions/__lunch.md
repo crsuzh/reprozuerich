@@ -3,7 +3,7 @@ key: __lunch
 title: "Lunch break"
 format: lunch
 tags:
-  - pause
+  - lunch
 speakers: []
 draft: false
 ---
