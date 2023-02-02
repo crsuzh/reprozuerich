@@ -1,10 +1,5 @@
-#- key: conference
-#  name: 'Conference '
-#  id: 4c0d8a93-a0fb-5fe4-ab31-7cc56e05e942
 - key: keynote
   name: 'Keynote '
-- key: panel
-  name: 'Panel '
 - key: workshop
   name: 'Workshop '
 - key: lunch 
@@ -13,7 +8,3 @@
   name: 'Pause '
 - key: apero
   name: 'Apéro '
-- key: quickie
-  name: 'Quickie '
-  id: f1f4eb00-ff40-57ea-805a-b3aa3ce5f6e6
-
