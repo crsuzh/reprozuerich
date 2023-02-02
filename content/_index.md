@@ -22,8 +22,10 @@ menu:
 
 <!-- REGISTRATION FORM --> 
 {{% home-poll class="primary" %}} 
-## Registration 
-We have not yet fixed the time slots for the workshops in the afternoon. Please fill out the registration form to let us know when you would like to participate.
+## Schedule 
+
+The schedule for the workshops in the afternoon has now been fixed. Click the button to get an overview.
+
 {{% /home-poll %}}
 
 <!--
