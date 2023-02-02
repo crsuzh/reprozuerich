@@ -2,11 +2,9 @@
 key: open_data
 title: "Open Data"
 id: 6E03tbU6L5w0IyjMi7yF
-#language: français
 format: workshop
-#tags:
-#  - _method___tools
-#level: beginner
+tags:
+  - workshop
 speakers:
   - melanie_roethlisberger
 #videoId: yU_Uvm3m3VY

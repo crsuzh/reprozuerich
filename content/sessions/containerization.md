@@ -3,9 +3,8 @@ key: containerization
 title: Containerization
 id: zVUXQkHQtSiGJeIwVd05
 format: workshop
-#tags:
-#  - _wtf
-#level: beginner
+tags:
+  - workshop
 speakers:
   - eva_furrer
   - reto_gerber

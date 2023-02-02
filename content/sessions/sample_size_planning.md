@@ -2,11 +2,9 @@
 key: sample_size_planning
 title: "Sample size planning"
 id: rJDTMZMYX57DCKYhW09c
-#language: english
 format: workshop
-#tags:
-#  - _sample_size
-#level: intermediate
+tags:
+  - workshop
 speakers:
   - carolin_strobl
   - rudolf_debelak

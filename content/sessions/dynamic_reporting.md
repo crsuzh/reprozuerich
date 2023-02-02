@@ -4,9 +4,8 @@ title: Dynamic reporting
 id: qXAvodXoMK3db8ZLcVwb
 #language: France
 format: workshop
-#tags:
-#  - _native_mobile_apps
-#level: beginner
+tags:
+  - workshop
 speakers:
   - samuel_pawel
   - felix_hofmann

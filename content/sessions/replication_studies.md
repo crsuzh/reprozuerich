@@ -2,11 +2,9 @@
 key: replication_studies
 title: Replication Studies
 id: jABRUDzqext8Rx8CmA4j
-#language: Français approximatif
 format: workshop
-#tags:
-#  - _wtf
-#level: beginner
+tags:
+  - workshop
 speakers:
   - charlotte_micheloud
   - leonhard_held
