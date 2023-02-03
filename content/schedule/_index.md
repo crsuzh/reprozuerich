@@ -20,7 +20,6 @@ draft: false
 </a>
 -->
 
-<a style="color: lightblue" href="https://forms.gle/xXK2vxUtnvzP2Nn3A">this link</a>.
 If the schedule does not show, please click **9 February** or follow 
 <a style="color: lightblue" href="https://www.reprozurich.org/schedule/#day_2023-02-09">this link</a>.
 
