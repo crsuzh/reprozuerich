@@ -20,7 +20,7 @@ draft: false
 </a>
 -->
 
-If the schedule does not show, please click **9 February** or follow 
+If the schedule does not show, please click [**9 February**](https://www.reprozurich.org/schedule/#day_2023-02-09) or follow 
 <a style="color: lightblue" href="https://www.reprozurich.org/schedule/#day_2023-02-09">this link</a>.
 
 <!-- TODO: filter and search -->
