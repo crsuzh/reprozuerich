@@ -2,6 +2,7 @@
 key: preregistration 
 title: Preregistration
 format: workshop
+material: https://osf.io/gu4mc/
 tags:
   - workshop
 speakers:

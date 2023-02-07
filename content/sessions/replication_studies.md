@@ -3,6 +3,7 @@ key: replication_studies
 title: Replication Studies
 id: jABRUDzqext8Rx8CmA4j
 format: workshop
+material: https://osf.io/8ga3r/
 tags:
   - workshop
 speakers:

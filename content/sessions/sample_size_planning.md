@@ -3,6 +3,7 @@ key: sample_size_planning
 title: "Sample size planning"
 id: rJDTMZMYX57DCKYhW09c
 format: workshop
+material: https://osf.io/3t5jb/
 tags:
   - workshop
 speakers:

@@ -3,6 +3,7 @@ key: open_data
 title: "Open Data"
 id: 6E03tbU6L5w0IyjMi7yF
 format: workshop
+material: https://osf.io/ej28f/
 tags:
   - workshop
 speakers:

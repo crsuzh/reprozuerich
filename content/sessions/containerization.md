@@ -3,6 +3,7 @@ key: containerization
 title: Containerization
 id: zVUXQkHQtSiGJeIwVd05
 format: workshop
+material: https://osf.io/8jb2n/
 tags:
   - workshop
 speakers:
